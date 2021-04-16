@@ -1,12 +1,18 @@
 # pdsnd_github
-Date created created April 14, 2021
+Date created:
+created April 14, 2021
 
-Project Title Bikeshare project
+Project Title:
+Bikeshare project
 
-Description This project is based on Udacity's nanodegree using python and bikeshare data from previous project.
+Description:
+This project is based on Udacity's nanodegree using python and bikeshare data from previous project.
 
-Files used CSV files and python!
+Files used:
+CSV files and python!
 
-Credits Stack Overflow, Udacity Mentors and Julian B.
+Credits:
+Stack Overflow, Udacity Mentors and Julian B.
 
-Computer OS Windows 10
+Computer:
+OS Windows 10
