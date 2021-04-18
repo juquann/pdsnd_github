@@ -1,4 +1,7 @@
 # pdsnd_github
+1,2,3
+GitHub project (Project 3) repository for PDSND
+
 Date created
 created April 14, 2021
 
@@ -16,6 +19,7 @@ Stack Overflow, Udacity Mentors and Julian B.
 
 Computer OS
 Windows 10
+
 
 
 # pdsnd_github
@@ -36,4 +40,5 @@ Stack Overflow, Udacity Mentors and Julian B.
 
 Computer:
 OS Windows 10
+
 
